@@ -1,1 +1,0 @@
-*/30 * * * * javac Notify.java && java Notify
